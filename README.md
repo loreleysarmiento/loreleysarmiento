@@ -37,6 +37,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loreleysarmiento/loreleysarmiento/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loreleysarmiento/loreleysarmiento/output/pacman-contribution-graph.svg">
@@ -46,7 +48,9 @@
 ###
 
 <div align="center">
- ![Recently viewed](https://spotify-recently-played-readme.vercel.app/api?user=mikashinanatsu)
+  <a href="https://open.spotify.com/user/mikashinanatsu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mikashinanatsu&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
